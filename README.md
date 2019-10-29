@@ -15,7 +15,7 @@
 
 ## Introduction
 
-This is the code for the NeurIPS 2019 paper Region Mutual Information Loss for Semantic Segmentation.
+This is the code for the NeurIPS 2019 paper [Region Mutual Information Loss for Semantic Segmentation](https://arxiv.org/abs/1910.12037).
 
 This paper proposes a region mutual information (RMI) loss to model the dependencies among pixels. RMI uses one pixel and its neighbor pixels to represent this pixel. Then for each pixel in an image, we get a multi-dimensional point that encodes the relationship between pixels, and the image is cast into a multi-dimensional distribution of these high-dimensional points. The prediction and ground truth thus can achieve high order consistency through maximizing the mutual information (MI) between their multi-dimensional distributions.
 
@@ -37,7 +37,7 @@ We are open to pull requests.
 ### Install dependencies
 
 Please install PyTorch-1.1.0 and Python3.6.5.
-We highly recommend you to use [our established PyTorch docker image](https://cloud.docker.com/repository/registry-1.docker.io/zhaosssss/torch_lab).
+We highly recommend you to use our established PyTorch docker image - [zhaossss/torch_lab](https://hub.docker.com/r/zhaosssss/torch_lab).
 ```
 docker pull zhaosssss/torch_lab:1.1.0
 ```
