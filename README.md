@@ -37,7 +37,7 @@ We are open to pull requests.
 ### Install dependencies
 
 Please install PyTorch-1.1.0 and Python3.6.5.
-We highly recommend you to use our established PyTorch docker image - [zhaossss/torch_lab](https://hub.docker.com/r/zhaosssss/torch_lab).
+We highly recommend you to use our established PyTorch docker image - [zhaosssss/torch_lab](https://hub.docker.com/r/zhaosssss/torch_lab).
 ```
 docker pull zhaosssss/torch_lab:1.1.0
 ```
