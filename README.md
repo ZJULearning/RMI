@@ -172,11 +172,14 @@ Segmentation results of DeepLabv3+&RMI have richer details than DeepLabv3+&CE, e
 
 If our paper and code are beneficial to your work, please cite:
 ```
-@inproceedings{zhao2019rmi,
-    title={Region Mutual Information Loss for Semantic Segmentation},
-    author={Shuai Zhao, Yang Wang, Zheng Yang, Deng Cai},
-    booktitle={NeurIPS},
-    year={2019}
+@inproceedings{2019_zhao_rmi,
+  author    = {Shuai Zhao and
+               Yang Wang and
+               Zheng Yang and
+               Deng Cai},
+  title     = {Region Mutual Information Loss for Semantic Segmentation},
+  booktitle = {NeurIPS},
+  year      = {2019},
 }
 ```
 
