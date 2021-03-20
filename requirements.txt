@@ -21,7 +21,7 @@ idna==2.8
 ipython==7.5.0
 ipython-genutils==0.2.0
 jedi==0.13.3
-Jinja2==2.10.1
+Jinja2==2.11.3
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 kiwisolver==1.1.0
