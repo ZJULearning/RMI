@@ -50,7 +50,7 @@ pycocotools==2.0.0
 pycosat==0.6.3
 pycparser==2.19
 pydensecrf==1.0rc3
-Pygments==2.3.1
+Pygments==2.7.4
 pyOpenSSL==19.0.0
 pyparsing==2.4.0
 PySocks==1.6.8
