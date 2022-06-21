@@ -34,7 +34,7 @@ mkl-fft==1.0.12
 mkl-random==1.0.2
 mock==3.0.5
 nose==1.3.7
-numpy==1.16.3
+numpy==1.22.0
 olefile==0.46
 opencv-python==3.3.0.9
 parso==0.4.0
