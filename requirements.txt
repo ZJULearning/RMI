@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 astor==0.7.1
 backcall==0.1.0
 beautifulsoup4==4.7.1
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 conda==4.6.14
