@@ -57,7 +57,7 @@ PySocks==1.6.8
 python-dateutil==2.8.0
 pytz==2019.1
 PyYAML==5.1
-requests==2.21.0
+requests==2.32.4
 ruamel-yaml==0.15.46
 scipy==1.2.1
 setproctitle==1.1.10
